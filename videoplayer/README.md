@@ -1,6 +1,6 @@
 # React + Vite
 
-# Video + player
+# Video  player
 
 npm create vite@latest
 
@@ -8,7 +8,7 @@ npm i
 
 In the project directory, you can run:
 
-### `cd videoplayert`
+### `cd videoplayer`
 
 ### `npm run dev`
 
